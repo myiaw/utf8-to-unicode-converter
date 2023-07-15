@@ -1,0 +1,3 @@
+/mnt/d/Projects/College/C/utf8tounicode0102/cmake-build-debug/CMakeFiles/utf8tounicode0102.dir
+/mnt/d/Projects/College/C/utf8tounicode0102/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Projects/College/C/utf8tounicode0102/cmake-build-debug/CMakeFiles/rebuild_cache.dir

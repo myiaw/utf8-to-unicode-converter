@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/utf8tounicode0102.dir/pretvori.c.o CMakeFiles/utf8tounicode0102.dir/main.c.o -o utf8tounicode0102 
